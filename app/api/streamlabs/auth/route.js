@@ -20,7 +20,12 @@ export async function GET(request) {
     redirect_uri: redirectUri,
     response_type: "code",
   });
+  // allow optional scope query param (space-separated scopes)
+  const scope = url.searchParams.get("scope");
+  if (scope) params.set("scope", scope);
+  else params.set("scope", "donations.read");
 
-  const authUrl = `https://streamlabs.com/api/v1.0/authorize?${params.toString()}`;
+  // Use v2 authorize endpoint first (v1 may be deprecated for some clients)
+  const authUrl = `https://streamlabs.com/api/v2.0/authorize?${params.toString()}`;
   return NextResponse.redirect(authUrl);
 }

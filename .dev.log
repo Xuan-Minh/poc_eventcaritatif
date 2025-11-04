@@ -1,0 +1,182 @@
+
+> battle4@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.33
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 899ms
+ ✓ Compiled /api/streamlabs/client-token in 146ms (59 modules)
+ GET /api/streamlabs/client-token 200 in 182ms
+ ○ Compiling /streamlabs/client ...
+ ✓ Compiled /streamlabs/client in 692ms (573 modules)
+ GET /streamlabs/client 200 in 757ms
+ GET /streamlabs/client 200 in 25ms
+ GET /api/streamlabs/client-token 200 in 18ms
+ GET /api/streamlabs/client-token 200 in 18ms
+ GET /streamlabs/client 200 in 19ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /streamlabs/client 200 in 17ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /streamlabs/client 200 in 11ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /streamlabs/client 200 in 22ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /streamlabs/client 200 in 10ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /streamlabs/client 200 in 11ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /streamlabs/client 200 in 22ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /streamlabs/client 200 in 11ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /streamlabs/client 200 in 19ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /streamlabs/client 200 in 12ms
+ GET /api/streamlabs/client-token 200 in 6ms
+ GET /api/streamlabs/client-token 200 in 7ms
+ GET /streamlabs/client 200 in 10ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /streamlabs/client 200 in 17ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /streamlabs/client 200 in 14ms
+ GET /api/streamlabs/client-token 200 in 6ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /streamlabs/client 200 in 16ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /streamlabs/client 200 in 12ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /streamlabs/client 200 in 18ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /streamlabs/client 200 in 10ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /streamlabs/client 200 in 12ms
+ GET /api/streamlabs/client-token 200 in 6ms
+ GET /streamlabs/client 200 in 12ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /api/streamlabs/client-token 200 in 6ms
+ GET /streamlabs/client 200 in 11ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /streamlabs/client 200 in 16ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /streamlabs/client 200 in 11ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /streamlabs/client 200 in 15ms
+ GET /api/streamlabs/client-token 200 in 7ms
+ GET /api/streamlabs/client-token 200 in 6ms
+ GET /streamlabs/client 200 in 12ms
+ GET /streamlabs/client 200 in 8ms
+ GET /api/streamlabs/client-token 200 in 6ms
+ GET /api/streamlabs/client-token 200 in 7ms
+ GET /streamlabs/client 200 in 17ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /api/streamlabs/client-token 200 in 6ms
+ GET /streamlabs/client 200 in 10ms
+ GET /api/streamlabs/client-token 200 in 7ms
+ GET /api/streamlabs/client-token 200 in 9ms
+ GET /streamlabs/client 200 in 13ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /streamlabs/client 200 in 11ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /streamlabs/client 200 in 19ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /api/streamlabs/client-token 200 in 7ms
+ GET /streamlabs/client 200 in 12ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /api/streamlabs/client-token 200 in 6ms
+ GET /streamlabs/client 200 in 12ms
+ GET /streamlabs/client 200 in 10ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /api/streamlabs/client-token 200 in 2ms
+ GET /streamlabs/client 200 in 11ms
+ GET /api/streamlabs/client-token 200 in 8ms
+ GET /api/streamlabs/client-token 200 in 10ms
+ GET /streamlabs/client 200 in 14ms
+ GET /streamlabs/client 200 in 8ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /streamlabs/client 200 in 15ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /streamlabs/client 200 in 12ms
+ GET /api/streamlabs/client-token 200 in 8ms
+ GET /api/streamlabs/client-token 200 in 8ms
+ GET /streamlabs/client 200 in 25ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /api/streamlabs/client-token 200 in 6ms
+ GET /streamlabs/client 200 in 11ms
+ GET /api/streamlabs/client-token 200 in 12ms
+ GET /api/streamlabs/client-token 200 in 13ms
+ GET /streamlabs/client 200 in 14ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /api/streamlabs/client-token 200 in 4ms
+ GET /streamlabs/client 200 in 10ms
+ GET /api/streamlabs/client-token 200 in 5ms
+ GET /api/streamlabs/client-token 200 in 6ms
+ GET /streamlabs/client 200 in 16ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ GET /api/streamlabs/client-token 200 in 3ms
+ ✓ Compiled /api/streamlabs/refresh in 56ms (325 modules)
+ POST /api/streamlabs/refresh 200 in 839ms
+ ✓ Compiled /api/streamlabs/auth in 68ms (325 modules)
+ GET /api/streamlabs/auth 307 in 85ms
+ ✓ Compiled /api/streamlabs/token in 40ms (327 modules)
+ GET /api/streamlabs/token?code=def50200794f00b704f0ea4635fafea642d9cdc8eaf732656fc0796f1abc440cdb40fc8248fb2527ee159b5828da9548e6bcba5de32d3c42900bdb91dfbb24dc9e50762c5669b214f7e22bf4dbc26cf36b97bb43a0aed03b6193e8ced9315b02b551bc9ea441287cd0e8dd47a431a6e938aab2e1ce3879382b24801a1341777d4e8255d1730d0510f42b9626630945f1f2292d8cb860722222c774ac82a043c45485c94671031a6f5e96d82e1093e64cc9c163cc0799f5991f8b2def7a8a0f86dd9bf12d74ef5f8a1b9450f00d595ea0f486fb9f6ff9b5659b38e44afa5d4045ed1987d2deca2355bb1375d110b68f0fb4efd355e111b30dbcdf208f0c01101bed68d7ca799cef89d9e122144367bd278d3f496692b17853a3aaaab33028e99940742ce0c8ff96e66ec8673b23e2a103d1f998e35c35242c06b29c0b95d477f59eaa52eb296b23a66e0c853506caff526bf4666602190ba42e237a9bd6fcde16b42c18e4610d5771d0c183f70500a678e75e010fbdc931c61a767ddcd29336c50453a719064763f2ed3dc3c507da1d32bd9a5bcc169662c25eafef9734740d183ab6a70d7d219ae13df0a3d3c3ea63fd20e3278a185804313901c88048be4cb0f04de6c6ee04841e579f650dddc7 200 in 727ms
+ ✓ Compiled / in 137ms (585 modules)
+ GET / 200 in 196ms
+ GET / 200 in 21ms
+ ✓ Compiled /api/twitch/auth in 52ms (332 modules)
+ GET /api/twitch/auth 307 in 70ms
+ ⚠ Cross origin request detected from noncommunistically-unsedentary-jennell.ngrok-free.dev to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ✓ Compiled /api/twitch/token in 45ms (330 modules)
+ GET /api/twitch/token?code=9ov1s7d0rx1g3htikmajnyizxa96vo&scope=user%3Aread%3Aemail 200 in 964ms
+ ✓ Compiled /api/streamlabs/auth in 42ms (332 modules)
+ GET /api/streamlabs/auth 307 in 54ms
+ GET /api/streamlabs/auth 307 in 9ms
+ GET / 200 in 52ms
+ GET /api/streamlabs/auth 307 in 7ms
+ ✓ Compiled /api/streamlabs/token in 44ms (332 modules)
+ GET /api/streamlabs/token?code=def502000403d821eca8665c8e1ec2bbbd11c47ae93a8f6b6d220ad2385cb152f90fc1930b1a41192f569c7a7456576d8eb667793c7701d57421c87c1b4776879efdc543048ea356c14fab67e8978a9bb099f9871ce586cb127a821b91ba425bad89a105ee6aeaaf8d59f3c96ebade27fdf1e621db30e4e6ee917957e092ee1aa4e2e015931c05a51975973ad9ab9a4759f478e6a72ede632d790a483c698ce7aae8de879e4fc007aea0624689dfd0dde44262e1b056f7ebe19253229bc2dec0a1c62a9ae82a041f476ac67ce821d3577f3f47cc01ec633fb23264f86391edb6a54bdc84400e84f4cd759b2519ea4c67aa240b4e4774fdb06167549ede9c981a287b63a4ab7cc4efbcf4bc6f31b298edf1b201271baf97cd005b0ec6311a5e9d8edff884575b21d7fa9f0fd7887796dc4bfd06d8ca329f199a3831aeee3507f978f9a20e72940b40520fbdd4825bee545530c7989754a7e07e073f12f99bff81d6b93d80b17aca70fdd82434ed0ba6f3d1edfe8371dda0153ac288579c4c15b343cbd6f68bf8659bd8018b777692cc661f14054fdefe1606441b3fff33e7b7ee713fa5bc3b235025ce5a1f4ffe5788815dd6d9abe7fd859d6373e982ef77eb84d8d0762eafd6b599a8f603c794b4 200 in 985ms
+ GET / 200 in 29ms
+ GET / 200 in 18ms
+ ✓ Compiled /api/streamlabs/client-token in 74ms (328 modules)
+ GET /api/streamlabs/client-token 200 in 85ms
+ ✓ Compiled /api/streamlabs/user in 45ms (331 modules)
+ GET /api/streamlabs/user 401 in 1174ms
+ ✓ Compiled /api/streamlabs/auth in 52ms (325 modules)
+ GET /api/streamlabs/auth 307 in 70ms
+ ✓ Compiled /api/streamlabs/refresh in 94ms (331 modules)
+ POST /api/streamlabs/refresh 200 in 897ms
+ ✓ Compiled /api/streamlabs/client-token in 131ms (550 modules)
+ ✓ Compiled (583 modules)
+ GET /api/streamlabs/client-token 200 in 99ms
+ GET /api/streamlabs/client-token 200 in 1ms
+ ✓ Compiled in 62ms (583 modules)
+ GET /streamlabs/client 200 in 65ms
+ GET /api/streamlabs/client-token 200 in 11ms
+ GET /api/streamlabs/client-token 200 in 2ms
+ GET / 200 in 26ms

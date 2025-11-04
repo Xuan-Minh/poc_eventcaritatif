@@ -7,4 +7,25 @@
   - Environments: .env.local
 
  ✓ Starting...
- ✓ Ready in 889ms
+ ✓ Ready in 838ms
+ ○ Compiling / ...
+ ✓ Compiled / in 540ms (448 modules)
+ GET / 200 in 125ms
+ GET / 200 in 14ms
+ ✓ Compiled /api/twitch/auth in 66ms (254 modules)
+ GET /api/twitch/auth 307 in 94ms
+ GET /api/twitch/auth 307 in 3ms
+ ✓ Compiled /_not-found in 85ms (481 modules)
+ GET / 404 in 129ms
+ GET /_next/static/chunks/main-app.js?v=1762181644120 404 in 12ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 9ms
+ GET / 404 in 28ms
+ GET /_next/static/chunks/main-app.js?v=1762181648774 404 in 10ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 10ms
+ GET /auth/callback 404 in 9ms
+ GET / 404 in 14ms
+ GET /_next/static/chunks/main-app.js?v=1762181655345 404 in 11ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 10ms
+ ✓ Compiled /_error in 215ms (678 modules)
+ GET / 404 in 260ms
+ GET / 404 in 7ms
